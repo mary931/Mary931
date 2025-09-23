@@ -1,6 +1,6 @@
 ## Hi there 👋moi c’est Maryline
 
- ![Robot QA](https://github.com/[marie931]/[marie931]/blob/main/MGGitProfil.png)
+ ![Robot QA](https://github.com/Marie931/Marie931/blob/main/MGGitProfil.png)
 
 
 🎓 Étudiante en test logiciel bac + 2 
