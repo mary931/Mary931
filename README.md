@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋moi c’est Maryline
 
-<!--
-**mary931/Mary931** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Robot QA](https://github.com/[mary931]/[mary931]/blob/main/MGGitProfil.png)
 
-Here are some ideas to get you started:
+🎓 Étudiante en test logiciel bac + 2 
+🔍 Passionnée par le **test logiciel** et la **qualité**  
+💡 Actuellement en recherche d’une alternance en QA  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Ce que j’apprends en ce moment
+- Mise en pratique des connaissances ISTQB (tests fonctionnels, cycle de vie du bug, conception de cas de tests)  
+- Participation QA sur des projets open source (Mozilla, LibreOffice)  
+- Amélioration de mes compétences en gestion des outils de suivi (Bugzilla, GitHub Issues, Jira)  
+
+---
+
+## 🌱 Objectifs 2025
+- Contribuer à 2+ projets QA open source  
+- Développer mes compétences en automatisation de tests  
+- Monter en expertise sur l’intégration continue (CI/CD)  
+
+---
+
+## 📜 Certification
+- ✅ ISTQB Certified Tester Foundation Level (CTFL)  
+---
+## 📫 Me contacter
+- 📧 Email : guaismaryline@orange.fr  
+ 
