@@ -9,15 +9,14 @@
 
 # 🚀 Ce que j’apprends en ce moment
 - Mise en pratique des connaissances ISTQB (tests fonctionnels, cycle de vie du bug, conception de cas de tests)  
-- Participation QA sur des projets open source (Mozilla, LibreOffice)  
-- Amélioration de mes compétences en gestion des outils de suivi (Bugzilla, GitHub Issues, Jira)  
+- Participation sur des projets open source (Mozilla, LibreOffice)  
+- Amélioration de mes compétences en gestion des outils de suivi (Bugzilla, Jira)  
 
 ---
 
 ## 🌱 Objectifs 2025
-- Contribuer à 2+ projets QA open source  
-- Développer mes compétences en automatisation de tests  
-- Monter en expertise sur l’intégration continue (CI/CD)  
+- Contribuer à 2 projets open source  
+- Développer mes compétences en automatisation de tests. 
 
 ---
 
